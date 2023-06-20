@@ -48,11 +48,19 @@ Then, you can run the program by executing:
 chmod +x run.src
 ./run.src
 ```
+After successful execution, the interfaces will pop up like:
+![Screenshot from 2023-06-20 02-12-00](https://github.com/notMuizz/ARP_Assign_02/assets/123844091/81ee8984-f6ca-4bad-8de3-772b3bf0cbc3)
 
 ## User Interface 
 
 There are two interfaces in this system. In the first interface, a small drawing is displayed, and it can be moved by using the arrow keys on the keyboard. Additionally, clicking on the area with a 'P' will capture a screenshot of the bitmap.
 
 In the second interface, a series of zeros will appear, tracing the movements of the drawing from the first interface. By pressing the "s" key on the keyboard, a screenshot of the bitmap from process B can be obtained.
+
+As shown in the interface below:
+![Screenshot from 2023-06-20 02-11-24](https://github.com/notMuizz/ARP_Assign_02/assets/123844091/d9a63e7f-8c88-4573-973a-408e0fbee804)
+And Screen Shot from bitmap:
+![imageA](https://github.com/notMuizz/ARP_Assign_02/assets/123844091/56b53d40-f80d-4412-8055-7a053f3507aa)
+
 
 It's important to note that process A operates within a window size of 90x30, while process B operates within a window size of 80x30.
